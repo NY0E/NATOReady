@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Elmer — Practical Ham Radio Tutor",
-  description: "A Socratic tutor for newly licensed amateur radio operators. You passed the exam. Now learn to actually operate.",
+  title: "NATOReady — Phonetic Alphabet Drills",
+  description: "Build the reflexive recall you need on the air. Drill the NATO phonetic alphabet until it's instant.",
 };
 
 export default function RootLayout({
