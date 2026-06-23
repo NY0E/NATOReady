@@ -1,7 +1,7 @@
 "use client";
 
-import Elmer from "@/components/Elmer";
+import NATOReady from "@/components/NATOReady";
 
 export default function Home() {
-  return <Elmer />;
+  return <NATOReady />;
 }
